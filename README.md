@@ -14,7 +14,7 @@ Google dirve: https://drive.google.com/file/d/1LfTeAbYLNm8Z65REE1nHEWaG438HCJmd/
 pip -r requirements.txt
 
 # Running the model
-python main_shell.pt
+python main_shell.py
 
 
 # Reference
