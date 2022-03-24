@@ -1,0 +1,169 @@
+absl-py @ file:///tmp/build/80754af9/absl-py_1600297512717/work
+anaconda-client==1.7.2
+anaconda-navigator==1.8.7
+argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1596828496740/work
+astor==0.8.1
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+backcall==0.2.0
+backports.functools-lru-cache==1.6.1
+backports.tempfile==1.0
+backports.weakref==1.0.post1
+beautifulsoup4==4.9.1
+bleach @ file:///tmp/build/80754af9/bleach_1600273001523/work
+blessings==1.7
+boto==2.49.0
+boto3==1.12.12
+botocore==1.15.12
+brotlipy==0.7.0
+cachetools==4.1.1
+certifi==2021.5.30
+cffi @ file:///tmp/build/80754af9/cffi_1598370789085/work
+chardet==3.0.4
+click==7.1.2
+clyent==1.2.2
+conda==4.10.1
+conda-build==3.10.5
+conda-package-handling==1.7.0
+conda-verify==3.4.2
+cryptography @ file:///tmp/build/80754af9/cryptography_1598892041992/work
+cycler==0.10.0
+Cython==0.29.15
+dataclasses==0.7
+decorator==4.4.2
+deepwalk==1.0.3
+defusedxml==0.6.0
+dgl==0.4.3
+dgl-cu101==0.4.3
+dgl-cu102==0.5.2
+dgl-cu110==0.6.0
+docutils==0.15.2
+entrypoints==0.3
+filelock==3.0.12
+future==0.18.2
+gast==0.2.2
+gcn==1.0
+gensim==3.8.1
+glob2==0.7
+google-api-core==1.22.2
+google-api-python-client==1.12.1
+google-auth==1.21.2
+google-auth-httplib2==0.0.4
+google-pasta==0.2.0
+googleapis-common-protos==1.52.0
+gpustat==0.6.0
+grpcio==1.34.0
+h5py==2.10.0
+httplib2==0.18.1
+hyperopt==0.1.1
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1593446433964/work
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1596206602906/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1593447367857/work
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+jedi @ file:///tmp/build/80754af9/jedi_1598371618777/work
+Jinja2==2.11.2
+jmespath==0.9.5
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+json5==0.9.5
+jsonschema==3.2.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-core==4.6.3
+jupyterlab==2.2.6
+jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+kiwisolver==1.2.0
+Lasagne==0.1
+lockfile==0.12.2
+luigi==2.8.12
+Mako==1.1.3
+Markdown==3.3.3
+MarkupSafe==1.1.1
+matplotlib==3.1.3
+mistune==0.8.4
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+munkres==1.0.12
+navigator-updater==0.2.1
+nbconvert==5.6.1
+nbformat==5.0.7
+networkx==2.5.1
+nose==1.3.7
+nose-parameterized==0.6.0
+notebook @ file:///tmp/build/80754af9/notebook_1596838602091/work
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1596233737064/work
+nvidia-ml-py3==7.352.0
+olefile==0.46
+openne==0.0.0
+opt-einsum==3.1.0
+packaging==20.4
+pandas==1.0.1
+pandocfilters==1.4.2
+parso==0.7.0
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///tmp/build/80754af9/pillow_1594307298074/work
+pkginfo==1.5.0.1
+ppnp==0.1
+prometheus-client==0.8.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1598885458782/work
+protobuf==3.13.0
+psutil @ file:///tmp/build/80754af9/psutil_1598370257337/work
+ptyprocess==0.6.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments @ file:///tmp/build/80754af9/pygments_1600141365765/work
+pygpu==0.7.6
+pymongo==3.10.1
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141725711/work
+PySocks==1.7.1
+python-daemon==2.2.4
+python-dateutil==2.8.1
+python-igraph==0.8.0
+pytz==2020.1
+PyYAML==5.3.1
+pyzmq==19.0.1
+QtPy==1.9.0
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+rsa==4.6
+ruamel-yaml==0.15.87
+s3transfer==0.3.3
+scikit-learn==0.22.1
+scipy @ file:///tmp/build/80754af9/scipy_1597686625380/work
+Send2Trash==1.5.0
+six==1.15.0
+smart-open==1.9.0
+soupsieve==2.0.1
+style==1.1.0
+tensorboard==1.15.0
+tensorboardX==2.1
+tensorflow==1.15.2
+tensorflow-estimator==1.15.1
+termcolor==1.1.0
+terminado==0.8.3
+testpath==0.4.4
+texttable==1.6.2
+Theano==1.0.4
+torch==1.7.0
+torchaudio==0.7.0a0+ac17b64
+torchvision==0.8.1
+tornado==6.0.4
+tqdm @ file:///tmp/build/80754af9/tqdm_1596810128862/work
+traitlets==4.3.3
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+update==0.0.1
+uritemplate==3.0.1
+urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
+visual-genome @ file:///home/fsh/new_try/visual_genome_python_driver
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+wrapt==1.12.0
+zipp==3.1.0
