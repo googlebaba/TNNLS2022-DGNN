@@ -1,5 +1,5 @@
 # TNNLS2022-DGNN
-Source code for "Debiased Graph Neural Networks with Agnostic Label Selection Bias"# WWW2020-O2MAC
+Source code for "Debiased Graph Neural Networks with Agnostic Label Selection Bias"
 
 paper: http://www.shichuan.org/doc/127.pdf
 
